@@ -1,5 +1,4 @@
 # FrontendMentor Challange
-## My Process
 ### Built with
 - Semantic HTML5 markup
 - Basic Flexbox
